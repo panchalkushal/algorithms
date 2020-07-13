@@ -1,2 +1,2 @@
 # algorithms
-Peronsal programming practice for algo implementation.
+Peronsal programming practice for algo implementation
