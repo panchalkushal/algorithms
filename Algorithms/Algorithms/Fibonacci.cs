@@ -3,7 +3,7 @@ using System;
 
 namespace Algorithms.Algorithms
 {
-    public static class Algos
+    public static class Fibonacci
     {
         public static void GenerateFibN1(int n)
         {

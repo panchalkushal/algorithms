@@ -31,7 +31,7 @@ namespace Algorithms
                         
                         if (int.TryParse(n, out num))
                         {
-                            Algos.GenerateFibN1(num);
+                            Fibonacci.GenerateFibN1(num);
                         }
                         else
                         {
@@ -44,7 +44,7 @@ namespace Algorithms
                         
                         if (int.TryParse(n, out num))
                         {
-                            Algos.GenerateFibN2(num);
+                            Fibonacci.GenerateFibN2(num);
                         }
                         else
                         {
